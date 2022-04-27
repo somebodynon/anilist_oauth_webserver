@@ -4,9 +4,9 @@
     "keywords":[
         "Anilist"
     ],
-    "repository":"https://github.com/lostb053/anilist_oauth_webserver",
-    "website":"https://github.com/lostb053/anilist_oauth_webserver",
-    "success_url":"https://t.me/lostb053",
+    "repository":"https://github.com/somebodynon/anilist_oauth_webserver",
+    "website":"https://github.com/somebodynon/anilist_oauth_webserver",
+    "success_url":"https://telegram.me/teamwarlords",
     "env":{
         "DB_URL":{
             "description":"Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide"
