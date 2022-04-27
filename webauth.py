@@ -12,7 +12,7 @@ app.url_map.strict_slashes = False
 
 @app.route("/")
 def home():
-    return "API is working fine"
+    return "This shit works fine...@teamwarlords | www.animezia.com"
 
 
 @app.route('/anilist')
